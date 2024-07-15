@@ -1,0 +1,4 @@
+CompileFlags: # Tweak the parse settings, example directory given to show format
+  Add:
+    - "-I/usr/src/linux-headers-6.1.0-22-common/include"
+    - "-I/usr/src/linux-headers-6.1.0-22-common/arch/x86/include"
